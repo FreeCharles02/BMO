@@ -1,0 +1,12 @@
+# Virtual environments (each computer makes its own)
+.venv/
+env/
+winvenv/
+venv/
+
+# Voice model: too big for GitHub (download it separately)
+*.onnx
+
+# Python cache files
+__pycache__/
+*.pyc
